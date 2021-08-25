@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaletWolff
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning SQL and Power bi
+- 👀 I’m interested in python programming
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me: https://www.linkedin.com/in/edgar-g-99346b208/
 
 <!---
