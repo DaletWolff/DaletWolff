@@ -1,4 +1,4 @@
-#Soy Daleth Gonzalez#
+Soy Daleth Gonzalez
 
 Actualmente me encuentro estudiando una ingenieria en sistemas computacionales en la universidad utel
 
