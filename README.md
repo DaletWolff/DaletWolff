@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daleth Gonzalez</h1>
-<h3 align="center">Desarrollador principiante de Mexico</h3>
+<h3 align="center">Desarrollador python jr.</h3>
 
 - 🔭 Actualmente trabajo en **proyectos personales**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 Mis proyectos están disponibles en [https://github.com/DaletWolff](https://github.com/DaletWolff)
 
-- 💬 Tengo experiencia con **Python, Numpy, Pandas, Matplotlib, Jupyter notebooks**
+- 💬 Tengo experiencia con **Python, Numpy, Pandas, Matplotlib, Seaborn, Jupyter notebooks**
 
 - 📫 Contacto **dalet.gonzalez.m@gmail.com**
 
