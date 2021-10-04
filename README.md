@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daleth Gonzalez</h1>
-<h3 align="center">Desarrollador python jr.</h3>
+<h3 align="center">Desarrollador python</h3>
 
 - 🔭 Actualmente trabajo en **proyectos personales**
 
