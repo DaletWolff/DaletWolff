@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daleth Gonzalez</h1>
 <h3 align="center">Desarrollador python</h3>
 
-- 🔭 Actualmente trabajo en **proyectos personales**
+- 🔭 Actualmente trabajo en **proyectos personales** 
 
 - 🌱 Próximamente quiero aprender **Django, Flask, SQL**
 
