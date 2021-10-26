@@ -7,7 +7,7 @@
 
 - 👨‍💻 Mis proyectos están disponibles en [https://github.com/DaletWolff](https://github.com/DaletWolff)
 
-- 💬 Tengo experiencia con **Python, Numpy, Pandas, Matplotlib, Seaborn, Jupyter notebooks**
+- 💬 Tengo experiencia con **Python, Numpy, Pandas, Matplotlib, Seaborn, Jupyter notebooks y Postgresql**
 
 - 📫 Contacto **dalet.gonzalez.m@gmail.com**
 
