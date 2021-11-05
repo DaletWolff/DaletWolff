@@ -1,28 +1,46 @@
-<h1 align="center">Hi 👋, I'm Daleth Gonzalez</h1>
-<h3 align="center">Desarrollador python</h3>
+# Hi, i'm Daleth González
 
-- 🔭 Actualmente trabajo en **proyectos personales** 
+## I am a systems engineering student at [<img src="images/utel.png" alt = "Universidad utel" width="50" height="25" />](https://uteluniversidad.mx/s/td/licenciaturas-utel/ingenieria-sistemas.html)
 
-- 🌱 Próximamente quiero aprender **Django, Flask, SQL**
+### Current programming languages:
 
-- 👨‍💻 Mis proyectos están disponibles en [https://github.com/DaletWolff](https://github.com/DaletWolff)
+- <img src="images/python.svg" alt = "Python" width="25" height="25" /> Python
+- <img src="images/csharp.svg" alt = "Csharp" width="25" height="25" /> C#
 
-- 💬 Tengo experiencia con **Python, Numpy, Pandas, Matplotlib, Seaborn, Jupyter notebooks y Postgresql**
+### Current python libraries:
 
-- 📫 Contacto **dalet.gonzalez.m@gmail.com**
+- <img src="images/jupyter.svg" alt = "Jupyter notebooks" width="25" height="25" /> Jupyter notebooks
+- <img src="images/postgresql.svg" alt = "Postgresql" width="25" height="25" /> Psycopg2
+- <img src="images/sqlite.svg" alt = "Sqlite" width="25" height="25" /> Sqlite
+- <img src="images/numpy.svg" alt = "Numpy" width="25" height="25" /> Numpy
+- <img src="images/pandas.svg" alt = "Pandas" width="25" height="25" /> Pandas
+- <img src="images/scikitlearn.svg" alt = "Scikitlearn" width="25" height="25" /> Scikitlearn
+- <img src="images/scipy.svg" alt = "Scipy" width="25" height="25" /> Scipy
+- <img src="images/matplotlib.svg" width="25" height="25" /> Matplotlib
+- <img src="images/seaborn.svg" width="25" height="25" /> Seaborn
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daleth gonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daleth gonzalez" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/dalethgonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="daleth gonzalez" height="30" width="40" /></a>
-</p>
+### Used technologies:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- <img src="images/audacity.svg" alt = "Audacity" width="25" height="25" /> Audacity
+- <img src="images/godotengine.svg" alt = "Godot engine" width="25" height="25" /> Godot engine
+- <img src="images/gimp.svg" alt = "Gimp" width="25" height="25" /> Gimp
+- <img src="images/googlecolab.svg" alt = "Google colab" width="25" height="25" /> Google colab
+- <img src="images/git.svg" alt = "Git" width="25" height="25" /> Git
+- <img src="images/github.svg" alt = "Github" width="25" height="25" /> Github
+
+### Find me at:
+
+- <img src="images/facebook.svg" alt = "Facebook" width="25" height="25" /> [Facebook](https://www.facebook.com/profile.php?id=100073854864379)
+- <img src="images/linkedin.svg" alt = "Linkedin" width="25" height="25" /> [Linkedin](https://www.linkedin.com/in/dalethgonzalez/)
+- <img src="images/kaggle.svg" alt = "Kaggle" width="25" height="25" /> [Kaggle](https://www.kaggle.com/dalethgonzalez)
+<p>&nbsp;</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daletwolff&show_icons=true&locale=en&layout=compact" alt="daletwolff" /></p>
 
-<!---
-DaletWolff/DaletWolff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Proyects:
+
+- [Password generator](https://github.com/DaletWolff/password_generator)
+- [Sqlite_csv](https://github.com/DaletWolff/Sqlite_csv)
+- [Crud_pokedex](https://github.com/DaletWolff/Crud_pokedex)
+- [PokeDataScrapper](https://github.com/DaletWolff/PokeDataScrapper)
+- [Programacion_estructurada](https://github.com/DaletWolff/Utel_programacion_estructurada_csharp)
