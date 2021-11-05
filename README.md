@@ -27,8 +27,8 @@
 | :-: | :-: | :-: |
 | [Facebook](https://www.facebook.com/profile.php?id=100073854864379) | [Linkedin](https://www.linkedin.com/in/dalethgonzalez/) | [Kaggle](https://www.kaggle.com/dalethgonzalez)
 
-[icons](https://simpleicons.org)
-
 <p>&nbsp;</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daletwolff&show_icons=true&locale=en&layout=compact" alt="daletwolff" /></p>
+
+Icons from: [simpleicons.org](https://simpleicons.org)
