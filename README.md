@@ -36,11 +36,3 @@
 <p>&nbsp;</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daletwolff&show_icons=true&locale=en&layout=compact" alt="daletwolff" /></p>
-
-### Proyects:
-
-- [Password generator](https://github.com/DaletWolff/password_generator)
-- [Sqlite_csv](https://github.com/DaletWolff/Sqlite_csv)
-- [Crud_pokedex](https://github.com/DaletWolff/Crud_pokedex)
-- [PokeDataScrapper](https://github.com/DaletWolff/PokeDataScrapper)
-- [Programacion_estructurada](https://github.com/DaletWolff/Utel_programacion_estructurada_csharp)
