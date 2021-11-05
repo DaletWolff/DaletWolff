@@ -2,8 +2,6 @@
 
 ## I am a systems engineering student at [<img src="images/utel.png" alt = "Universidad utel" width="50" height="25" />](https://uteluniversidad.mx/s/td/licenciaturas-utel/ingenieria-sistemas.html)
 
-<p>&nbsp;</p>
-
 ### Current programming languages:
 
 <img src="images/python.svg" alt = "Python" width="25" height="25" /> | <img src="images/csharp.svg" alt = "Csharp" width="25" height="25" />
