@@ -30,5 +30,3 @@
 <p>&nbsp;</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daletwolff&show_icons=true&locale=en&layout=compact" alt="daletwolff" /></p>
-
-Icons from: [simpleicons.org](https://simpleicons.org)
