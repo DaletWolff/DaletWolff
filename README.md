@@ -1,6 +1,6 @@
 # Hi, i'm Daleth González
 
-## I am a systems engineering student at [<img src="images/utel.png" alt = "Universidad utel" width="50" height="25" />](https://uteluniversidad.mx/s/td/licenciaturas-utel/ingenieria-sistemas.html)
+## I am a systems engineering student at [<img src="https://espacio.utel.edu.mx/hubfs/Adquisicion/1_Mario/Logos/logo.svg" alt = "Universidad utel" width="50" height="25" />](https://uteluniversidad.mx/s/td/licenciaturas-utel/ingenieria-sistemas.html)
 
 ### Current programming languages:
 
