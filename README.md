@@ -4,7 +4,7 @@
 
 ### Current programming languages:
 
-<img src="https://www.python.org/static/img/python-logo.png" alt = "Python" width="100" height="25" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/245px-C_Sharp_wordmark.svg.png" alt = "Csharp" width="25" height="25" />
+<img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt = "Python" width="75" height="25" /> | <img src="https://docs.microsoft.com/es-es/windows/images/csharp-logo.png" alt = "Csharp" width="25" height="25" />
 | :-: | :-: |
 | [Python](https://www.python.org) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) |
 
@@ -16,14 +16,14 @@
 
 ### Used technologies:
 
-<img src="https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png" alt = "Audacity" width="25" height="25" /> | <img src="https://godotengine.org/themes/godotengine/assets/logo_dark.svg" alt = "Godot engine" width="75" height="25" /> | <img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt = "Gimp" width="25" height="25" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" alt = "Google colab" width="50" height="25" /> | <img src="https://git-scm.com/images/logo@2x.png" alt = "Git" width="50" height="25" /> | <img src="images/github.svg" alt = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="25" />
+<img src="https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png" alt = "Audacity" width="25" height="25" /> | <img src="https://godotengine.org/themes/godotengine/assets/logo_dark.svg" alt = "Godot engine" width="75" height="25" /> | <img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt = "Gimp" width="25" height="25" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" alt = "Google colab" width="50" height="25" /> | <img src="https://git-scm.com/images/logo@2x.png" alt = "Git" width="50" height="25" /> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt = "Github" width="25" height="25" />
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [Audacity](https://www.audacityteam.org) | [Godot engine](https://godotengine.org) | [Gimp](https://www.gimp.org) | [Google colab](https://colab.research.google.com) | [Git](https://git-scm.com) | [Github](https://github.com) |
 
 
 ### Find me at:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/800px-2021_Facebook_icon.svg.png" alt = "Facebook" width="25" height="25" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/245px-LinkedIn_Logo.svg.png" alt = "Linkedin" width="100" height="25" /> | <img src="https://www.kaggle.com/static/images/site-logo.png" alt = "Kaggle" width="75" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/800px-2021_Facebook_icon.svg.png" alt = "Facebook" width="25" height="25" /> | <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt = "Linkedin" width="25" height="25" /> | <img src="https://www.kaggle.com/static/images/site-logo.png" alt = "Kaggle" width="75" height="25" />
 | :-: | :-: | :-: |
 | [Facebook](https://www.facebook.com/profile.php?id=100073854864379) | [Linkedin](https://www.linkedin.com/in/dalethgonzalez/) | [Kaggle](https://www.kaggle.com/dalethgonzalez)
 
