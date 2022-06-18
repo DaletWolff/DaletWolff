@@ -23,9 +23,9 @@
 
 ### Find me at:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/800px-2021_Facebook_icon.svg.png" alt = "Facebook" width="25" height="25" /> | <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt = "Linkedin" width="25" height="25" /> | <img src="https://www.kaggle.com/static/images/site-logo.png" alt = "Kaggle" width="75" height="25" />
-| :-: | :-: | :-: |
-| [Facebook](https://www.facebook.com/profile.php?id=100073854864379) | [Linkedin](https://www.linkedin.com/in/dalethgonzalez/) | [Kaggle](https://www.kaggle.com/dalethgonzalez)
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/800px-2021_Facebook_icon.svg.png" alt = "Facebook" width="25" height="25" /> | <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt = "Linkedin" width="25" height="25" />|
+| :-: | :-: |
+| [Facebook](https://www.facebook.com/profile.php?id=100073854864379) | [Linkedin](https://www.linkedin.com/in/dalethgonzalez/)|
 
 <p>&nbsp;</p>
 
