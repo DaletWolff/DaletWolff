@@ -4,13 +4,9 @@
 
 Current libraries:
 
-- Pandas
-- Numpy
-- Sklearn
 - Flask
-- Matplotlib
-- Seaborn
-- Psycopg2
+- SqlAlchemy
+- Pandas
 
 <p>&nbsp;</p>
 
